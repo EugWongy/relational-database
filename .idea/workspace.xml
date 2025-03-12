@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49814164-3c7e-4af9-91e1-da6274275496" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.freeCodeCamp/.bashrc" beforeDir="false" afterPath="$PROJECT_DIR$/.freeCodeCamp/.bashrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.freeCodeCamp/.psqlrc" beforeDir="false" afterPath="$PROJECT_DIR$/.freeCodeCamp/.psqlrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.freeCodeCamp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/.freeCodeCamp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.freeCodeCamp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/.freeCodeCamp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.freeCodeCamp/pg_hba.conf" beforeDir="false" afterPath="$PROJECT_DIR$/.freeCodeCamp/pg_hba.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.freeCodeCamp/test/.cwd" beforeDir="false" afterPath="$PROJECT_DIR$/.freeCodeCamp/test/.cwd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.freeCodeCamp/test/.next_command" beforeDir="false" afterPath="$PROJECT_DIR$/.freeCodeCamp/test/.next_command" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.freeCodeCamp/test/1.1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/.freeCodeCamp/test/1.1.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitpod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TUTORIAL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coderoad.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2u7SyFnAWNPaJsn36XQ7D3xYXtd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+    </layout>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49814164-3c7e-4af9-91e1-da6274275496" name="Changes" comment="" />
+      <created>1741598374786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741598374786</updated>
+      <workItem from="1741598377546" duration="600000" />
+      <workItem from="1741758006627" duration="598000" />
+      <workItem from="1741769363804" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
